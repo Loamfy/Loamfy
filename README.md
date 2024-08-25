@@ -1,4 +1,2 @@
 ## Hi there 👋
-Python Coder 🙂
-
-I'm doing things that i want 🧐
+I'm doing things that I like🤯
