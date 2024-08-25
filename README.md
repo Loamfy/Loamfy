@@ -1,3 +1,4 @@
 ## Hi there 👋
 Python Coder 🙂
-Doing things that i want 🧐
+
+I'm doing things that i want 🧐
